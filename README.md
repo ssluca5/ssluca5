@@ -6,21 +6,28 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssluca5&layout=compact&langs_count=7&theme=dark" width="575"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lcs-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Lcs-Oracle" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Lcs-Postgre" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-plain.svg">
-  <img align="center" alt="Lcs-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="Lcs-SQLLite" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlite/sqlite-original.svg">
-  <img align="center" alt="Lcs-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
-  <img align="center" alt="Lcs-Pandas" height="30" width="40" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg">
-</div>
+## 🛠️&nbsp;Technologies  
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=black">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">  
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white">  
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
 
-##
+## 📞&nbsp;Contact  
 
 <div> 
-  <a href="https://www.instagram.com/luccassilveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:lukas_silva5@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luccas-silveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a href="https://www.instagram.com/luccassilveira/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="codopen" />
+  </a>
+  <a href="https://www.linkedin.com/in/luccas-silveira/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="codopen" />
+  </a>
+ 	<a href = "mailto:lukas_silva5@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="codopen">
+  </a>
+  <a href = "mailto:lukas.silv@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="codopen">
+  </a>
 </div>
