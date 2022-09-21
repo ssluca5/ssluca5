@@ -1,9 +1,3 @@
-### Olá! Eu sou Lucas Silveira 👋
-
-- 🔭 Hoje trabalho com SQL e Oracle
-- 🌱 Estudando engenharia de dados
-- 😄 Pronouns: ele/dele
-
 <div>
   <a href="https://github.com/ssluca5">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ssluca5&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
