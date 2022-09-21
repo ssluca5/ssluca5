@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssluca5&color=green" alt="Profile views" /> </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssluca5&hide=contribs,prs&theme=swift)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssluca5&hide=contribs,prs&theme=default)
 
 ## 🛠️&nbsp;Technologies  
 <div align="left">  
