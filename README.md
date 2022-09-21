@@ -1,20 +1,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssluca5&color=green" alt="Profile views" /> </p>
 
-<div align="left">
-  <a href="https://github.com/ssluca5">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ssluca5&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="425"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssluca5&layout=compact&langs_count=7&theme=dark" width="575"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssluca5&hide=contribs,prs&theme=swift)
 
 ## 🛠️&nbsp;Technologies  
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=black">
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">  
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white">  
-<img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
-
+<div align="left">  
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=black">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">  
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white">  
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
+</div>
+  
 ## 📞&nbsp;Contact  
 
 <div> 
